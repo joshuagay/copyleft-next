@@ -2,7 +2,7 @@
 # hardware design branch #
 
 This branch of copyleft-next project is for considering revisions to the
-Copyleft-Next License that are specific to licensing hardware designs. Those 
+copyleft-next license that are specific to licensing hardware designs. Those 
 considerations may relate to legal differences specific to hardware designs,
 such as incorporating language into the license that directly addresses laws 
 specific to "mask works" (see, for example, 17 U.S.C. §904(b)(1)). Other 
