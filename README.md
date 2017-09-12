@@ -2,16 +2,17 @@
 # hardware design branch #
 
 This branch of copyleft-next project is for considering revisions to the
-Copyleft-Next License that are specific to hardware designs. Those 
-considerations may relate to legal differences specific to hardware designs. 
-Some differences may be legal, such as incorporating language into the 
-license that directly addresses laws specific to "mask works" (see, for 
-example, 17 U.S.C. §904(b)(1)). Other differences may simply educational or 
-"technical", such as providing non-software design examples, or including legal 
-notices that are contain a mask mark Ⓜ instead of a copyright mark ©. I'm not 
-entirely sure where this is going, but, I currently have an interest in 
-licensing of hardware designs and so I thought I would try to take what I learn 
-and put it into the platonic ideal of the always-becoming copyleft-next.
+Copyleft-Next License that are specific to licensing hardware designs. Those 
+considerations may relate to legal differences specific to hardware designs,
+such as incorporating language into the license that directly addresses laws 
+specific to "mask works" (see, for example, 17 U.S.C. §904(b)(1)). Other 
+differences may simply educational or "technical", such as providing non-software 
+design examples, or including legal notices that are contain a mask mark Ⓜ 
+instead of a copyright mark ©. 
+
+I'm not entirely sure where this is going, but, I currently have an interest in 
+licensing hardware designs, so I figure I will take what I learn and put it into 
+the platonic ideal of the always-becoming copyleft-next.
 
 Joshua Gay
 September 2017
